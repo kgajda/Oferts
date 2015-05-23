@@ -1,5 +1,3 @@
 rootProject.name = 'Oferts'
 include 'Core'
-include 'ModelAccess'
-include 'Web'
-
+include 'Services'
