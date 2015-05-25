@@ -3,8 +3,8 @@
 .idea
 gradle
 gradlew
-Oferts.iml
 gradlew.bat
 Core/build
 ModelAccess/build
 Web/build
+Application/build
